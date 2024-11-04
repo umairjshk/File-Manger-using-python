@@ -11,7 +11,9 @@ command functionality, file categorization by type, and quick access to recently
   - Open, delete, create files and folders
   
 - **AI Features**:
-  - **Voice Commands**: Execute commands like "open file", "delete file", and "search file" via voice input.
+  - **Voice Commands**: Execute commands like "open file", "delete file", and "search file" via voice input.(To use the voice command feature, first
+    click the 'Voice Command' button. The application will display 'Listening.' Then, tap OK and speak your command (e.g., 'open file,' 'delete file,' or 'search file').
+    After processing, the application will display what it heard. Once you review and confirm by clicking OK, it will execute the specified action).
   - **File Categorization**: Automatically sort files by type (Documents, Images, Videos, Audio).
   - **Recent Files Suggestion**: Display the five most recently modified files in the current directory.
 
