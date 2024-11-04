@@ -1,5 +1,4 @@
 # File-Manger-using-python
-# AI-Powered File Manager
 
 This is an AI-powered file management application built using Python and Tkinter. Designed for enhanced organization, 
 this app allows users to manage files and directories effectively. It integrates basic AI features, including voice 
